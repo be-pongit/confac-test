@@ -14,4 +14,4 @@ nieuweklantbtn.click
 
 #Nieuwe Klant Page
 bedrijfsnaambtn = driver.find_element(:css, "[data-tst='config.company.name']")
-bedrijfsnaambtn.send_keys("pongit")
+bedrijfsnaambtn.send_keys("CEETEEGEE")
